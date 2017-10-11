@@ -1,0 +1,10 @@
+site_id,switch_ip,port,status
+SITE001,9.0.1.100,Fa0/5,notconnect
+SITE001,9.0.1.100,Fa0/6,notconnect
+SITE001,9.0.1.100,Fa0/15,connected
+SITE002,9.0.2.100,Fa0/5,notconnect
+SITE002,9.0.2.100,Fa0/6,notconnect
+SITE002,9.0.2.100,Fa0/15,connected
+SITE003,9.0.3.100,Fa0/5,notconnect
+SITE003,9.0.3.100,Fa0/6,notconnect
+SITE003,9.0.3.100,Fa0/15,connected

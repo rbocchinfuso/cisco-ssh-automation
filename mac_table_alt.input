@@ -1,0 +1,4 @@
+Destination Address  Address Type  VLAN  Destination Port
+-------------------  ------------  ----  --------------------
+cc01.06d0.0000          Self          1     Vlan1
+cc04.07a9.0001          Dynamic       1     FastEthernet0/15
